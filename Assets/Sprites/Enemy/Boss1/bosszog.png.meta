@@ -1,0 +1,1808 @@
+fileFormatVersion: 2
+guid: 5dc6d02c41b37f445a5f16a9ccf4477e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bosszog_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1218
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713dab0eb6b69064aa0973128fb21c33
+      internalID: -1973565030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1218
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629d4c2440008d0449ef1fbed7ec9887
+      internalID: -1884818557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_2
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1218
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f3a31f0856ec5458b80180122f92b4
+      internalID: 737895814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_3
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1218
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b1f7e0f006e64488658c8454a0452d
+      internalID: -351197548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_4
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1218
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89917efd4d8898141b0175c793d6a410
+      internalID: 2025852368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_5
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1218
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2400454241d27f48ada285075b128b6
+      internalID: 1856281900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_6
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1218
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d251b9575e8a30648a85b1630bb99dc3
+      internalID: -1633307596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_7
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1218
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0067b03300377864ebcf5bcb6f0fd750
+      internalID: -1863579824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_8
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1218
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db224bb480abde1468faca2ef8a730ac
+      internalID: -1650512624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_9
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1218
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4330d2bd12735f43a67824de0504f41
+      internalID: 1089406191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1044
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c52b241cbe0e44ea9b07e36e662dd2
+      internalID: 1379378793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_11
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1044
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2c08ed04c44ab40b1ee383f7fc4a56
+      internalID: 1424005346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_12
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1044
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938087a80a7ca0641bb00c6cf027590b
+      internalID: 516970367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_13
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1044
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26195cfc264f48448aabb2ebe0b1a3c3
+      internalID: -1020252450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_14
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1044
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa32451c3eb3fc544a74f810594ce679
+      internalID: 138664769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_15
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1044
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b8dcab573e76d43814c99d6c904227
+      internalID: -721193334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_16
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1044
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d3daed0eaf07349a728d718ea39ce4
+      internalID: -1925744282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_17
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1044
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8c2a9f737f75c439ece27f7c4f39ec
+      internalID: -462986721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_18
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1044
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f524190e74f931749a308c7e5bded945
+      internalID: -2108816388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_19
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1044
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab2ee2df1becda4ca644f2d60c4c4d4
+      internalID: 15311637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 870
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21faf8e4ff292a245aad1f8f228a56a1
+      internalID: 1051981446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_21
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 870
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d2b350f1d6ac4459b350d8e0137b29
+      internalID: -1138395020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_22
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 870
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24fcc93c12c8f4479110d56eacdad34
+      internalID: -742376065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_23
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 870
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782e15c282759d94aa7ece0f037fd6d2
+      internalID: -627221911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_24
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 870
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ce59ee2ec6a6f409d7ffc24d40d97c
+      internalID: 1414997793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_25
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 870
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6721d76d3cd2a243b58c0acb1173b6d
+      internalID: 858044285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_26
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 870
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3397eb040dba83c42ac9a3f6d7f42b16
+      internalID: 994277400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_27
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 870
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a379b9775308a458e886d1d82dab2f
+      internalID: 1393494692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_28
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 870
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74968fa393fae914d9b26f99ac967483
+      internalID: 826831537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_29
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 870
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcf995d7fc11a5419516f386e1f59f3
+      internalID: -1467738896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 696
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d1f12bb2bc64142923b2df35afaae1
+      internalID: 380274675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_31
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 696
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d937177ec619a7341bd580679741a31b
+      internalID: -760365095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_32
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 696
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd93ce535d7e48488229e0b34c73b23
+      internalID: 1337622049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_33
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 696
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042923a1f2497894eb79d9fc0d10b3e6
+      internalID: 1064624297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_34
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 696
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a784630a072a2c2498e7568bf890c2f6
+      internalID: -81382472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_35
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 696
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44c82569801cb84f84b53e019326f3b
+      internalID: 818493405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_36
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 696
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4923bd865f7ce79478d5d56b83be4e50
+      internalID: -675911350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_37
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 696
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ca2d8cc8df0e04e98bd1b0740643d7
+      internalID: -245899531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_38
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 696
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58067934fa07c3468a46ce5ece31afd
+      internalID: -1377942373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_39
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 696
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58bf5479bc24f54bb54b3e58d6226c2
+      internalID: 820178141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 522
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272ccd0ae46498e4ba8b2c391296da79
+      internalID: -1752176334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_41
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 522
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f142dd2f0af9b3c4897c98bda3b6126f
+      internalID: 1554433401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_42
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 522
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfaefa4cc934e6439ca4b4702010af4
+      internalID: 1686887222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_43
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 522
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c53bc56644ffa34a920590dc91a4923
+      internalID: -779855273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_44
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 522
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fe402b69cf04647b3625f96c6f88b9
+      internalID: 381390517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_45
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 522
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a0052489456434cbe8a91f2cca2e06
+      internalID: 1098898769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_46
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 522
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3063ea80634a77748be09be8bd2b742c
+      internalID: 543895162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_47
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 522
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea57ba1683e129448d19081b895b2bf
+      internalID: 1486184874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_48
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 522
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c92d112e10d5d41bc932b5463ee79c
+      internalID: -568920047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_49
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 522
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2400511ec2f0a4698cab71f92573bc
+      internalID: -99599196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608702ebb4dcfa049b804202ce63bcb0
+      internalID: 1142685684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_51
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 348
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a1829d06f6d374fbff3a5fbf1db9b9
+      internalID: 54933677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_52
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 348
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3486bf228a0f35747a1167fdaa35a6a5
+      internalID: 392900734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_53
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 348
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36284cc42117d1240a98a5f6486954c7
+      internalID: -580997895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_54
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 348
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82fa8a9cb65346438054a01b61ef7bc
+      internalID: -790168566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_55
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 348
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8094b51f5f6ca4c4b999fc872ffe5df2
+      internalID: 338175624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_56
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 348
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9bd555f3f33a94fbd93682f10fc6eb
+      internalID: -633807159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_57
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 348
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7028924e07a8542bd36aacaf69cde0
+      internalID: -2133731703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_58
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 348
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98af267bb5e833d4c853a8fdba8ec9a3
+      internalID: -100676423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_59
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 348
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f425637b811864190e1f981777a110
+      internalID: -1680648783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0752acef0ff61478151b26991c2c08
+      internalID: 2091892445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_61
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 174
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c55038dafa225542b8b99476dc694a5
+      internalID: 300278899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_62
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 174
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcae2cae7034f9840a4e426d456d75b4
+      internalID: 986393040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_63
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 174
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b618fd3fde1788d4d8bd4993645ca030
+      internalID: 119186029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_64
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 174
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c671351244ebc747bc7179b36a27f36
+      internalID: 1169057267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_65
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 174
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f72112ba5c7ed64685d0d86f3f452f1
+      internalID: 354920014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_66
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 174
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb772b8ec1aa7f848b71c37bf5bcd73e
+      internalID: 483314205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_67
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 174
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6ce0fe24544ed419950f4cb97a9e47
+      internalID: -675417055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_68
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 174
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67938cb01c98c78499f85e88f797a04e
+      internalID: -1364865955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_69
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 174
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d690e35d5f63144bdf3b6fb52ed1b4
+      internalID: -411289707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237c4ed7b5b72b5468a265dd9599986b
+      internalID: 1063375878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_71
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2536061684080f94b812bf4fb9ca5525
+      internalID: 246058918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_72
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d45515c1b5677548a3577679e35aebf
+      internalID: 1580699591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_73
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 0
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd192e25a501e141a5e4a60e13d3c42
+      internalID: -1639947270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_74
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf4c67aacf79d44989551709bb39ab7
+      internalID: 1469817445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_75
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 0
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15ea8631d95a5544986c6530851ddc3
+      internalID: 641009260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosszog_76
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 0
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a5d49988e133248ae9882e1ee61b7e
+      internalID: 1898093381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bosszog_0: -1973565030
+      bosszog_1: -1884818557
+      bosszog_10: 1379378793
+      bosszog_11: 1424005346
+      bosszog_12: 516970367
+      bosszog_13: -1020252450
+      bosszog_14: 138664769
+      bosszog_15: -721193334
+      bosszog_16: -1925744282
+      bosszog_17: -462986721
+      bosszog_18: -2108816388
+      bosszog_19: 15311637
+      bosszog_2: 737895814
+      bosszog_20: 1051981446
+      bosszog_21: -1138395020
+      bosszog_22: -742376065
+      bosszog_23: -627221911
+      bosszog_24: 1414997793
+      bosszog_25: 858044285
+      bosszog_26: 994277400
+      bosszog_27: 1393494692
+      bosszog_28: 826831537
+      bosszog_29: -1467738896
+      bosszog_3: -351197548
+      bosszog_30: 380274675
+      bosszog_31: -760365095
+      bosszog_32: 1337622049
+      bosszog_33: 1064624297
+      bosszog_34: -81382472
+      bosszog_35: 818493405
+      bosszog_36: -675911350
+      bosszog_37: -245899531
+      bosszog_38: -1377942373
+      bosszog_39: 820178141
+      bosszog_4: 2025852368
+      bosszog_40: -1752176334
+      bosszog_41: 1554433401
+      bosszog_42: 1686887222
+      bosszog_43: -779855273
+      bosszog_44: 381390517
+      bosszog_45: 1098898769
+      bosszog_46: 543895162
+      bosszog_47: 1486184874
+      bosszog_48: -568920047
+      bosszog_49: -99599196
+      bosszog_5: 1856281900
+      bosszog_50: 1142685684
+      bosszog_51: 54933677
+      bosszog_52: 392900734
+      bosszog_53: -580997895
+      bosszog_54: -790168566
+      bosszog_55: 338175624
+      bosszog_56: -633807159
+      bosszog_57: -2133731703
+      bosszog_58: -100676423
+      bosszog_59: -1680648783
+      bosszog_6: -1633307596
+      bosszog_60: 2091892445
+      bosszog_61: 300278899
+      bosszog_62: 986393040
+      bosszog_63: 119186029
+      bosszog_64: 1169057267
+      bosszog_65: 354920014
+      bosszog_66: 483314205
+      bosszog_67: -675417055
+      bosszog_68: -1364865955
+      bosszog_69: -411289707
+      bosszog_7: -1863579824
+      bosszog_70: 1063375878
+      bosszog_71: 246058918
+      bosszog_72: 1580699591
+      bosszog_73: -1639947270
+      bosszog_74: 1469817445
+      bosszog_75: 641009260
+      bosszog_76: 1898093381
+      bosszog_8: -1650512624
+      bosszog_9: 1089406191
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
