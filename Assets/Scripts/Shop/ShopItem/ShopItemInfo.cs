@@ -4,11 +4,22 @@ using UnityEngine;
 
 public class ShopItemInfo
 {
+    public const string ISBUY = "ISBUY";
     public int id;
     public string iconPath;
     public string title;
     public string description;
     public int cost;
+    private bool isBuy;
+    public bool IsBuy
+    {
+        get => isBuy;
+        set
+        {
+            isBuy = value;
+            LocalSave.SetBool(id.ToString() + ISBUY, value);
+        }
+    }
 
     RefShop refShop;
 
@@ -21,6 +32,7 @@ public class ShopItemInfo
         title = refShop.Title;
         description = refShop.Description;
         cost = refShop.Cost;
+        IsBuy = LocalSave.GetBool(id.ToString() + ISBUY, false);
     }
 
     public Sprite GetItemSprite()
@@ -56,16 +68,19 @@ public class ShopItemInfo
 
     public bool TryBuyShopItem()
     {
-        Debug.Log(CurrencyMgr.Instance.Gold);
-        Debug.Log(cost);
         if (CurrencyMgr.Instance.Gold >= cost)
         {
             CurrencyMgr.Instance.Gold -= cost;
+            IsBuy = true;
             return true;
         }
         return false;
     }
 
+    public void UseShopItem()
+    {
+        ShopUI.Instance.ShopInfo.InUseID = id;
+    }
 
 
 

@@ -13,6 +13,9 @@ public class DontDestroy : MonoBehaviour
         else
             instance = this;
 
+
+        ObjectPool.Instance.Init();
+
     }
 
     // Start is called before the first frame update

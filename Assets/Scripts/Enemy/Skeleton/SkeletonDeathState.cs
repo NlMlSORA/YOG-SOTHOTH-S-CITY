@@ -15,7 +15,8 @@ public class SkeletonDeathState : EnemyState
     {
         base.Enter();
         enemy.isDead = true;
-        CurrencyMgr.Instance.Gold += 100;
+        CurrencyMgr.Instance.Gold += 1000;
+        InGameTaskView.Instance.Count += 1;
     }
 
     public override void Exit()

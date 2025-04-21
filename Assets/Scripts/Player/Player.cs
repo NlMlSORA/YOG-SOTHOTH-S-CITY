@@ -62,6 +62,7 @@ public class Player : Entity
     public float gravity;
 
     public bool isIdle;
+    public bool hasPet;
 
     protected override void Awake()
     {

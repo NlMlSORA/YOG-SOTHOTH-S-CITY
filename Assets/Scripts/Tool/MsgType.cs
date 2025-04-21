@@ -41,5 +41,8 @@ public enum SendType {
     StartRun,
     ShopItemClick,
     UpdateShop,
+    KillSkeleton,
+    MissionComplete,
+    UpdateTextTask,
 }
 

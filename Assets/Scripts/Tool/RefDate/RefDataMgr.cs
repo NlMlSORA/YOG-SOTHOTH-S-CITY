@@ -32,6 +32,7 @@ public class RefDataMgr : BaseRefDataMgr<RefDataMgr> {
 
     public void InitBasic() {
         LoadGeneric(RefShop.cacheMap);
+        LoadGeneric(RefTask.cacheMap);
         //LoadGeneric(RefSign.cacheMap);
         //LoadGeneric(RefTask.cacheMap);
         //LoadGeneric(RefLanguage.cacheMap);

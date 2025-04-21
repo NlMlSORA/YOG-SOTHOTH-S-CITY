@@ -68,7 +68,7 @@ public class PlayerAnimations : MonoBehaviour
     private void PlayAudio(AudioClip _clip)
     {
         // 创建一个空的游戏对象
-        GameObject audioObject = ObjectPool.Instance.Get("EffectsAudio", false);
+        GameObject audioObject = ObjectPool.Instance.Get("EffectsAudio", GameObject.Find("DontDestroy").transform ,false);
 
         // 为游戏对象添加 AudioSource 组件
         AudioSource audioSource = audioObject.AddComponent<AudioSource>();

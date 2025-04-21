@@ -59,12 +59,13 @@ public class Door : MonoBehaviour
         if (sceneNumber == 1)
         {
             PlayerManager.instance.player.transform.position = new Vector2(-30.54f, -3.58f);
-            PetView.Instance.TeleportBehindPlayer();
         }
         else if(sceneNumber == 2)
         {
             PlayerManager.instance.player.transform.position = new Vector2(-2, -3);
-            PetView.Instance.TeleportBehindPlayer();
+        }
+        if (PlayerManager.instance.Pet!= null){
+            PlayerManager.instance.Pet.GetComponent<PetView>().TeleportBehindPlayer();
         }
     }
 }

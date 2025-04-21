@@ -2,9 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ShopItemMgr : MonoBehaviour
+public class ShopItemMgr : SingletonMonoBehavior<ShopItemMgr>
 {
     private GameObject shopItemPrefab;
+    public List<ShopItemView> shopItemViewList = new List<ShopItemView>();
 
     private void Awake()
     {
@@ -20,6 +21,7 @@ public class ShopItemMgr : MonoBehaviour
         {
             CreateShopItem((i+1) * 100);
         }
+        Refresh();
     }
 
     // Update is called once per frame
@@ -34,6 +36,34 @@ public class ShopItemMgr : MonoBehaviour
         ShopItemView shopItemView = new ShopItemView(ShopItem);
         ShopItemInfo shopItemInfo = new ShopItemInfo(_id);
         shopItemView.SetData(shopItemInfo);
+        shopItemViewList.Add(shopItemView);
+    }
 
+    public void Refresh()
+    {
+        foreach(ShopItemView shopitem in shopItemViewList)
+        {
+            shopitem.Refresh();
+        }
+        RefreshPet();
+    }
+
+
+    public void RefreshPet()
+    {
+        if (PlayerManager.instance.Pet != null)
+        {
+            ObjectPool.Instance.Recycle(PlayerManager.instance.Pet);
+        }
+
+        if (ShopUI.Instance.ShopInfo.InUseID == 100)
+        {
+            PlayerManager.instance.Pet = ObjectPool.Instance.Get("Pet/Cat", false);
+        }
+
+        else if (ShopUI.Instance.ShopInfo.InUseID == 200)
+        {
+            PlayerManager.instance.Pet = ObjectPool.Instance.Get("Pet/Pepe", false);
+        }
     }
 }

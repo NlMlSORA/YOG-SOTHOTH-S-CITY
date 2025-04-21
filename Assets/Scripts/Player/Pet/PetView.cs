@@ -1,13 +1,13 @@
 ﻿using UnityEngine;
 
-public class PetView : SingletonMonoBehavior<PetView>
+public class PetView : MonoBehaviour
 {
     public Player Player;
     public Transform playerTransform;
     public float followDistance = 1.5f;
     public float moveSpeed;
     public float jumpForce;
-    public float jumpHeightThreshold = 1.2f;
+    public float jumpHeightThreshold = 1.4f;
     public LayerMask groundLayer;
     public Transform groundCheck;
     public float groundCheckRadius = 0.1f;
@@ -84,6 +84,7 @@ public class PetView : SingletonMonoBehavior<PetView>
 
         // 跳跃判断
         float verticalOffset = playerTransform.position.y - transform.position.y;
+        //Debug.Log(jumpHeightThreshold);
         if (IsGrounded() && verticalOffset > jumpHeightThreshold)
         {
             rb.velocity = new Vector2(rb.velocity.x, jumpForce);

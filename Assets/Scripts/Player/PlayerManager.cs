@@ -8,6 +8,7 @@ public class PlayerManager : MonoBehaviour
     public Player player;
     public bool isDead = false;
     [SerializeField] private GameObject deadFont;
+    public GameObject Pet;
 
     public bool isIdle;
 
@@ -30,7 +31,5 @@ public class PlayerManager : MonoBehaviour
     {
         deadFont.GetComponent<DeadFont>().Display();
     }
-
-
 
 }

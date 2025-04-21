@@ -10,15 +10,15 @@ public class ShopWindow : SingletonMonoBehavior<ShopWindow>
 
     [HideInInspector] public CanvasGroup canvasGroup;
     private Coroutine fadeCoroutine;
-    private Image imgCoin;
-    private TextMeshProUGUI textCoin;
+    //private Image imgCoin;
+    //private TextMeshProUGUI textCoin;
 
     protected override void Awake()
     {
         DontDestroyOnLoad(gameObject);
 
-        imgCoin = gameObject.GetChildControl<Image>("imgCoin");
-        textCoin = gameObject.GetChildControl<TextMeshProUGUI>("textCoin");
+        //imgCoin = gameObject.GetChildControl<Image>("imgCoin");
+        //textCoin = gameObject.GetChildControl<TextMeshProUGUI>("textCoin");
     }
 
     // Start is called before the first frame update
