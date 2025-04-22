@@ -12,6 +12,7 @@ public class PlayerHurtState : PlayerState
     {
         base.Enter();
         stateTimer = player.hurtDuration;
+        MMFMgr.Instance.PlayMMF();
     }
 
     public override void Exit()
