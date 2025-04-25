@@ -783,6 +783,7 @@ MonoBehaviour:
   attackCheckRadius: 0.72
   knockedDirection: {x: 3, y: 12}
   knockedDuration: 0.07
+  canHurt: 1
   isDead: 0
   moveSpeed: 4
   idleTime: 1.5
@@ -790,7 +791,7 @@ MonoBehaviour:
   whatIsPlayer:
     serializedVersion: 2
     m_Bits: 64
-  attackDistance: 1.44
+  attackDistance: 1.48
   attackCooldownTime: 0.4
   lastAttackTime: 0
   stunedDirection: {x: 7, y: 12}
